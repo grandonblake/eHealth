@@ -55,5 +55,5 @@ without getting exposed to unauthorized access.
 <img src="/images/DoctorMenu.png" width=50% height=50%>
 <img src="/images/DoctorSeeAppointmentDetails.png" width=50% height=50%>
 <img src="/images/DoctorSeeAppointmentDetails2.png" width=50% height=50%>
-
-
+<img src="/images/DoctorSeePastAppointments.png" width=50% height=50%>
+<img src="/images/DoctorSeePastAppointmentDetails.png" width=50% height=50%>
