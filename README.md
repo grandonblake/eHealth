@@ -31,5 +31,29 @@ schedule and get ready by knowing the patients that have set an appointment.
 accessed by doctors and nurses without getting the information lost, screwing up data and
 without getting exposed to unauthorized access.
 
+## Project Screenshots:
+<img src="/images/AccountLogin.png" width=50% height=50%>
+
+### Patient:
+<img src="/images/PatientLogin.png" width=50% height=50%>
+<img src="/images/PatientRegister.png" width=50% height=50%>
+<img src="/images/PatientRegister2.png" width=50% height=50%>
+<img src="/images/PatientMainMenu.png" width=50% height=50%>
+<img src="/images/PatientSetAppointment.png" width=50% height=50%>
+<img src="/images/PatientSetAppointment2.png" width=50% height=50%>
+<img src="/images/PatientSetAppointment3.png" width=50% height=50%>
+<img src="/images/PatientSetAppointment4.png" width=50% height=50%>
+<img src="/images/PatientSetAppointment5.png" width=50% height=50%>
+<img src="/images/PatientSeeCurrentAppointment.png" width=50% height=50%>
+<img src="/images/PatientSeeCurrentAppointmentDetails.png" width=50% height=50%>
+<img src="/images/PatientSeePastAppointments.png" width=50% height=50%>
+<img src="/images/PatientSeePastAppointments2.png" width=50% height=50%>
+<img src="/images/PatientSeeDoctorComment.png" width=50% height=50%>
+
+### Doctor:
+<img src="/images/DoctorLogin.png" width=50% height=50%>
+<img src="/images/DoctorMenu.png" width=50% height=50%>
+<img src="/images/DoctorSeeAppointmentDetails.png" width=50% height=50%>
+<img src="/images/DoctorSeeAppointmentDetails2.png" width=50% height=50%>
 
 
