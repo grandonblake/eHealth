@@ -1,5 +1,5 @@
 # eHealth
-A simple Java Online Hospital Appointment System
+A simple locally-ran Hospital Appointment System using Java.
 
 This project was a group effort that was submitted on March 23, 2021 as a Final Project requirement during my 1st year in College.
 
