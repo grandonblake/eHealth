@@ -1,7 +1,7 @@
 # eHealth
 A simple Java Online Hospital Appointment System
 
-This project was submitted on March 23, 2021 as a Final Project requirement during my 1st year in College.
+This project was a group effort that was submitted on March 23, 2021 as a Final Project requirement during my 1st year in College.
 
 ## How to Run
 Download the src files and run the Main.java file
